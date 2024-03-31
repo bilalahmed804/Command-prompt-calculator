@@ -1,5 +1,5 @@
-First Command line install 
+First Command line install 👉
 (npm i b9i-simple-calculator)
 
-Second Command line Run
+Second Command line Run 👉
 (npx b9i-simple-calculator)
